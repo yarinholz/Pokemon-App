@@ -1,0 +1,8 @@
+    .CreateTrainer {
+      padding: 60px 0;
+    }
+  
+    .CreateTrainer form {
+      margin: 0 auto;
+      max-width: 320px;
+    }

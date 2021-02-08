@@ -1,0 +1,8 @@
+.PokemonCatch {
+    padding: 60px 0;
+  }
+
+  .PokemonCatch form {
+    margin: 0 auto;
+    max-width: 320px;
+  }
